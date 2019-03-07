@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE preguntas>
+<preguntas>
+	<pregunta>
+		<type>text</type>
+		<titulo>1) ¿A quién vas a votar el 28 de abril?</titulo>
+		<respuesta>Vox</respuesta>
+	</pregunta>	
+	<pregunta>
+		<type>radio</type>
+		<titulo>2) ¿A qué asignatura pertenece la Tasca 11™?</titulo>
+		<option>prog</option>
+		<option>BD</option>
+		<option>LM</option>
+		<option>SI</option>
+		<respuesta>2</respuesta>
+	</pregunta>
+	<pregunta>
+		<type>multiple</type>
+		<title>3) ¿Quién hace esta tasca?</title>
+		<option>----</option>
+		<option>Pepe</option>
+		<option>Pepe</option>
+		<option>Pepe</option>
+		<option>Laura</option>
+		<respuesta>1</respuesta>
+		<respuesta>2</respuesta>
+		<respuesta>3</respuesta>
+	</pregunta>
+	<pregunta>
+		<type>checkbox</type>
+		<title>4) ¿Cómo te sientes al hacer la Tasca 11?</title>
+		<option>De super putísima madre socia</option>
+		<option>Qué depresión</option>
+		<option>Viva la virgen</option>
+		<option>Como una mesa</option>
+		<option>Ese JavaScript me da miedo</option>
+		<option>Mejor dejo la FP...</option>
+		<respuesta>1</respuesta>
+		<respuesta>3</respuesta>
+		<respuesta>5</respuesta>
+	</pregunta>
+	<pregunta>
+		<type>radio</type>
+		<titulo>5) ¿En qué plataforma podrás encontrar la Tasca 11?</titulo>
+		<option>Classroom</option>
+		<option>Moodle</option>
+		<option>Gmail</option>
+		<option>Edmodo</option>
+		<respuesta>0</respuesta>
+	</pregunta>
+	<pregunta>
+		<type>select</type>
+		<titulo>6) ¿Cuántos alumnos hacen la Tasca 11?</titulo>
+		<option>----</option>
+		<option>19</option>
+		<option>21</option>
+		<option>23</option>
+		<option>25</option>
+		<option>27</option>
+		<respuesta>4</respuesta>
+	</pregunta>
+	<pregunta>
+		<type>text</type>
+		<titulo>7) ¿Qué día se mandó la Tasca 11?</titulo>
+		<respuesta>11/01/2019</respuesta>
+	</pregunta>
+	<pregunta>
+		<type>text</type>
+		<titulo>8) ¿Qué día se entrega la Tasca 11?</titulo>
+		<respuesta>21/01/2019</respuesta>
+	</pregunta>
+	<pregunta>
+		<type>radio</type>
+		<titulo>9) ¿De qué color es ahora la plataforma de donde ha salido la Tasca 11?</titulo>
+		<option>Rojo</option>
+		<option>Azul</option>
+		<option>Marrón</option>
+		<respuesta>1</respuesta>
+	</pregunta>
+	<pregunta>
+		<type>text</type>
+		<titulo>10) Del 0 al 11, ¿qué nota merece esta Tasca 11?</titulo>
+		<respuesta>11</respuesta>
+	</pregunta>
+</preguntas>
