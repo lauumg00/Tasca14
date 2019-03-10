@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE preguntas>
-<preguntas>
-	<pregunta>
+<!DOCTYPE questions>
+<questions>
+	<question>
 		<type>text</type>
-		<titulo>1) ¿A quién vas a votar el 28 de abril?</titulo>
-		<respuesta>Vox</respuesta>
-	</pregunta>	
-	<pregunta>
+		<title>1) ¿A quién vas a votar el 28 de abril?</title>
+		<answer>Vox</answer>
+	</question>	
+	<question>
 		<type>radio</type>
-		<titulo>2) ¿A qué asignatura pertenece la Tasca 11™?</titulo>
-		<option>prog</option>
+		<title>2) ¿A qué asignatura pertenece la Tasca 11™?</title>
+		<option>Prog</option>
 		<option>BD</option>
 		<option>LM</option>
 		<option>SI</option>
-		<respuesta>2</respuesta>
-	</pregunta>
-	<pregunta>
+		<answer>2</answer>
+	</question>
+	<question>
 		<type>multiple</type>
 		<title>3) ¿Quién hace esta tasca?</title>
 		<option>----</option>
@@ -23,11 +23,11 @@
 		<option>Pepe</option>
 		<option>Pepe</option>
 		<option>Laura</option>
-		<respuesta>1</respuesta>
-		<respuesta>2</respuesta>
-		<respuesta>3</respuesta>
-	</pregunta>
-	<pregunta>
+		<answer>1</answer>
+		<answer>2</answer>
+		<answer>3</answer>
+	</question>
+	<question>
 		<type>checkbox</type>
 		<title>4) ¿Cómo te sientes al hacer la Tasca 11?</title>
 		<option>De super putísima madre socia</option>
@@ -36,51 +36,51 @@
 		<option>Como una mesa</option>
 		<option>Ese JavaScript me da miedo</option>
 		<option>Mejor dejo la FP...</option>
-		<respuesta>1</respuesta>
-		<respuesta>3</respuesta>
-		<respuesta>5</respuesta>
-	</pregunta>
-	<pregunta>
+		<answer>1</answer>
+		<answer>3</answer>
+		<answer>5</answer>
+	</question>
+	<question>
 		<type>radio</type>
-		<titulo>5) ¿En qué plataforma podrás encontrar la Tasca 11?</titulo>
+		<title>5) ¿En qué plataforma podrás encontrar la Tasca 11?</title>
 		<option>Classroom</option>
 		<option>Moodle</option>
 		<option>Gmail</option>
 		<option>Edmodo</option>
-		<respuesta>0</respuesta>
-	</pregunta>
-	<pregunta>
+		<answer>0</answer>
+	</question>
+	<question>
 		<type>select</type>
-		<titulo>6) ¿Cuántos alumnos hacen la Tasca 11?</titulo>
+		<title>6) ¿Cuántos alumnos hacen la Tasca 11?</title>
 		<option>----</option>
 		<option>19</option>
 		<option>21</option>
 		<option>23</option>
 		<option>25</option>
 		<option>27</option>
-		<respuesta>4</respuesta>
-	</pregunta>
-	<pregunta>
+		<answer>4</answer>
+	</question>
+	<question>
 		<type>text</type>
-		<titulo>7) ¿Qué día se mandó la Tasca 11?</titulo>
-		<respuesta>11/01/2019</respuesta>
-	</pregunta>
-	<pregunta>
+		<title>7) ¿Qué día se mandó la Tasca 11?</title>
+		<answer>11/01/2019</answer>
+	</question>
+	<question>
 		<type>text</type>
-		<titulo>8) ¿Qué día se entrega la Tasca 11?</titulo>
-		<respuesta>21/01/2019</respuesta>
-	</pregunta>
-	<pregunta>
+		<title>8) ¿Qué día se entrega la Tasca 11?</title>
+		<answer>21/01/2019</answer>
+	</question>
+	<question>
 		<type>radio</type>
-		<titulo>9) ¿De qué color es ahora la plataforma de donde ha salido la Tasca 11?</titulo>
+		<title>9) ¿De qué color es ahora la plataforma de donde ha salido la Tasca 11?</title>
 		<option>Rojo</option>
 		<option>Azul</option>
 		<option>Marrón</option>
-		<respuesta>1</respuesta>
-	</pregunta>
-	<pregunta>
+		<answer>1</answer>
+	</question>
+	<question>
 		<type>text</type>
-		<titulo>10) Del 0 al 11, ¿qué nota merece esta Tasca 11?</titulo>
-		<respuesta>11</respuesta>
-	</pregunta>
-</preguntas>
+		<title>10) Del 0 al 11, ¿qué nota merece esta Tasca 11?</title>
+		<answer>11</answer>
+	</question>
+</questions>
