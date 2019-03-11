@@ -1,35 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE questions>
+<!DOCTYPE questions SYSTEM "dtd.dtd">
 <questions>
 	<question>
 		<type>text</type>
-		<title>1) ¿A quién vas a votar el 28 de abril?</title>
+		<title>¿A quién vas a votar el 28 de abril?</title>
 		<answer>Vox</answer>
-	</question>	
-	<question>
-		<type>radio</type>
-		<title>2) ¿A qué asignatura pertenece la Tasca 11™?</title>
-		<option>Prog</option>
-		<option>BD</option>
-		<option>LM</option>
-		<option>SI</option>
-		<answer>2</answer>
 	</question>
 	<question>
+		<type>text</type>
+		<title>¿Qué día se mandó la Tasca 11?(dd/mm/yyyy)</title>
+		<answer>11/01/2019</answer>
+	</question>
+	<question>
+		<type>select</type>
+		<title>¿Qué día se entrega la Tasca 11?(dd/mm/yyyy)</title>
+		<option>40/05/2019</option>
+		<option>21/01/2019</option> 
+		<option>32/12/2019</option>
+		<option>29/02/2019</option>
+		<answer>1</answer> 
+	</question>
+	<question>
+		<type>select</type>
+		<title>¿Cuántos alumnos hacen la Tasca 11?</title>
+		<option>19</option>
+		<option>21</option>
+		<option>23</option>
+		<option>25</option>
+		<option>27</option>
+		<answer>4</answer> 
+	</question>		 
+	<question>
 		<type>multiple</type>
-		<title>3) ¿Quién hace esta tasca?</title>
-		<option>----</option>
+		<title>¿Quién hace esta tasca?</title>
 		<option>Pepe</option>
 		<option>Pepe</option>
 		<option>Pepe</option>
 		<option>Laura</option>
+		<answer>0</answer>
 		<answer>1</answer>
 		<answer>2</answer>
-		<answer>3</answer>
 	</question>
 	<question>
-		<type>checkbox</type>
-		<title>4) ¿Cómo te sientes al hacer la Tasca 11?</title>
+		<type>multiple</type>
+		<title>¿Cómo te sientes al hacer la Tasca 11?</title>
 		<option>De super putísima madre socia</option>
 		<option>Qué depresión</option>
 		<option>Viva la virgen</option>
@@ -41,46 +55,41 @@
 		<answer>5</answer>
 	</question>
 	<question>
+		<type>checkbox</type>
+		<title>¿Cuales de los son enemigos?</title>
+		<option>HTML</option>
+		<option>PHP</option> 
+		<option>JavaScript</option> 
+		<option>CSS</option>
+		<answer>32</answer>
+		<answer>3</answer>
+	</question>
+	<question>
+		<type>checkbox</type>
+		<title>¿De qué colores ha sido la plataforma de donde ha salido la Tasca 11?</title>
+		<option>Rojo</option>
+		<option>Azul</option>
+		<option>Marrón</option>
+		<option>Negro</option>
+		<answer>1</answer>
+		<answer>2</answer>
+	</question>
+	<question >
 		<type>radio</type>
-		<title>5) ¿En qué plataforma podrás encontrar la Tasca 11?</title>
+		<title>¿A qué asignatura pertenece la Tasca 11™?</title>
+		<option>Programación</option>
+		<option>Base de Datos</option>
+		<option>Lenguaje de Marcas</option>
+		<option>Sistemas Informáticos</option>
+		<answer>2</answer>
+	</question>
+	<question>
+		<type>radio</type>
+		<title>¿En qué plataforma podrás encontrar la Tasca 11?</title>
 		<option>Classroom</option>
 		<option>Moodle</option>
 		<option>Gmail</option>
 		<option>Edmodo</option>
-		<answer>0</answer>
-	</question>
-	<question>
-		<type>select</type>
-		<title>6) ¿Cuántos alumnos hacen la Tasca 11?</title>
-		<option>----</option>
-		<option>19</option>
-		<option>21</option>
-		<option>23</option>
-		<option>25</option>
-		<option>27</option>
-		<answer>4</answer>
-	</question>
-	<question>
-		<type>text</type>
-		<title>7) ¿Qué día se mandó la Tasca 11?</title>
-		<answer>11/01/2019</answer>
-	</question>
-	<question>
-		<type>text</type>
-		<title>8) ¿Qué día se entrega la Tasca 11?</title>
-		<answer>21/01/2019</answer>
-	</question>
-	<question>
-		<type>radio</type>
-		<title>9) ¿De qué color es ahora la plataforma de donde ha salido la Tasca 11?</title>
-		<option>Rojo</option>
-		<option>Azul</option>
-		<option>Marrón</option>
-		<answer>1</answer>
-	</question>
-	<question>
-		<type>text</type>
-		<title>10) Del 0 al 11, ¿qué nota merece esta Tasca 11?</title>
-		<answer>11</answer>
-	</question>
+		<answer>0</answer>		  
+	</question>		 
 </questions>
