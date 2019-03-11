@@ -56,7 +56,7 @@
 	</question>
 	<question>
 		<type>checkbox</type>
-		<title>¿Cuales de los son enemigos?</title>
+		<title>¿Cuales son enemigos de todos los estudiantes?</title>
 		<option>HTML</option>
 		<option>PHP</option> 
 		<option>JavaScript</option> 
